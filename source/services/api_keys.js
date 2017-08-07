@@ -1,2 +1,2 @@
 VAGALUME_API_KEY = "xxxxxxxxx";
-GENIUS_ACCESS_TOKEN = "xxxxxxxxx";
+GENIUS_ACCESS_TOKEN = "jCgIcWtDN-RKkgcVDW9jgdN1JCUQlKI2GgE2Vspvl5mefKcZw7eJ-0CiTi1whbxr";
